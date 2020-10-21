@@ -3,6 +3,10 @@ title: "Privacy Policy"
 permalink: "/privacy-policy.html"
 ---
 
+TODO
+
+<!--
+
 "{{site.name}}" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
@@ -41,3 +45,5 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 #### Contact Information
 
 For any questions or concerns regarding the privacy policy, please [contact us here]({{ 'contact.html' | relative_url }}).
+
+-->
