@@ -6,4 +6,4 @@ author: DIC
 image: ''
 
 ---
-Test2 now for draft testing
+Test2 now for draft testing.
