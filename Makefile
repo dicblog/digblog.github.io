@@ -5,7 +5,8 @@ build: #favicon.ico
 	jekyll build
 
 preview:
-	bundle exec jekyll serve
+	bundle exec jekyll serve --drafts
+	#bundle exec jekyll serve
 
 #favicon.ico: favicon.ppm
 #	ppmtowinicon -output favicon.ico favicon.ppm
