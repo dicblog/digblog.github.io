@@ -17,4 +17,8 @@ Draft:
 
 Too big CB-6000 (vs CB-3000 which is good, or CB-6000S(mall), still nice).
 
+* x
+
 Too big ring in HolyTainer v4
+
+* x
