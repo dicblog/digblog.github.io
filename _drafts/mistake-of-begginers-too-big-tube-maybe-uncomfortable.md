@@ -5,6 +5,8 @@ categories:
 - for_newbies
 - HolyTrainer v4
 - CB-6000
+- HolyTrainer
+- CB-x
 title: Mistake of begginers - too big tube or ring can be painfully uncomfortable!
 author: DominantInChastity
 image: ''
