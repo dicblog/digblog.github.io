@@ -7,7 +7,7 @@ permalink: "/categories.html"
 Categories:
 
 {% for category in site.categories %}
-<a class="sscroll text-danger" href="{{ "categories.html" | relative_url }}#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+<a class="sscroll text-danger" href="{{ "categories.html" | relative_url }}#{{ category[0] | downcase }}">{{ category[0] | downcase }}</a><span class="sep">, </span>
 {% endfor %}
 
 <div class="container">
