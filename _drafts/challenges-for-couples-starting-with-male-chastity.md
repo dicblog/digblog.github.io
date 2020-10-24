@@ -5,7 +5,7 @@ categories:
 - for_newbies
 title: Challenges for couples starting with male chastity
 author: DominantInChastity
-image: ''
+image: "/assets/images/couple_sign_1_clipart.png"
 
 ---
 Same challenges for newbies:
@@ -35,4 +35,4 @@ Therefore you should expect emotional reactions.
 
 * Moments of doubt
 * Operating under stress, when tension from chastity dynamic interferes with other areas of life - e.g. 
-* 
+*
