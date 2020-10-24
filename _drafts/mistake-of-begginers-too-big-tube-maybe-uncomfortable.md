@@ -9,10 +9,9 @@ categories:
 - CB-x
 title: Mistake of begginers - too big tube or ring can be painfully uncomfortable!
 author: DominantInChastity
-image: ''
+image: "/assets/images/male_wondering_about_cage_1_clipart.png"
 
 ---
-
 Draft:
 
 Too big CB-6000 (vs CB-3000 which is good, or CB-6000S(mall), still nice).
