@@ -6,4 +6,6 @@ author: DominantInChastity
 image: ''
 
 ---
-Post Concept: maybe links to my other writings / drafts, maybe to groups on forums/FL , etc... list reasons and possible dynamics . This one is supposed to be more general, and link to out "Submissive HOlding keys" that would be more specific about us.
+Post Concept: maybe links to my other writings / drafts, maybe to groups on forums/FL , etc... list reasons and possible dynamics . This one is supposed to be more general, and link to out "Submissive HOlding keys" that would be more specific about us.  
+  
+Ask owner of group if fine to quote description [https://fetlife.com/groups/184823](https://fetlife.com/groups/184823 "https://fetlife.com/groups/184823")
